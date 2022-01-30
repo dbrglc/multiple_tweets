@@ -3,7 +3,7 @@ Download tweets of a given user sequentially with Twitter API V2
 
 ## Limit of this application
 1. It requires a Twitter developer account
-2. With an Essential Access of the Twitter API it permits to download only 2500 tweets every 15 minutes
+2. With an Essential Access of the Twitter API it permits to download only 25000 tweets every 15 minutes
 
 ## How to use?
 To use this application you have to set an enviroment in which you should put your token.
